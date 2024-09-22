@@ -22,8 +22,14 @@ Test the model with the test data and use it to predict placement for new studen
 ## Program:
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+
+
 Developed by: SARANYA S.
+
+
 RegisterNumber: 212223220101
+
+
  ```
 import pandas as pd
 data=pd.read_csv('Placement_Data.csv')
